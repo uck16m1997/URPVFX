@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ErosionVoronoi_Orage
+  m_Shader: {fileID: -6465566751694194690, guid: 8a4e1f2ba383787449a58be16cba67b9, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_385aae41123946d4a53fd3df676934f3: 5
+    - Vector1_3b9b8f7d93ad427e80c79bf7fcac6275: 20
+    - Vector1_69b9688856d64d1197aec31751322cad: 5
+    - Vector1_75312bdd559948a68c1fbf154d06f19c: 0
+    - Vector1_98c2728e086d483a8781fa25be4b071b: 0
+    - Vector1_ce37cba16c354096990dfd72663f7a88: 0.5
+    m_Colors:
+    - Color_8dba057c676a4d6a9d42bb3682d8e070: {r: 11.984314, g: 2.6864839, b: 0.59921587, a: 1}
+    - Color_ed497391a4b24636a203ae9c235a28fa: {r: 0.011764706, g: 0.0029411765, b: 0, a: 0}
+    - Vector2_15e96ebf8dde454fb3b243304d2598f3: {r: 0.5, g: 0.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
